@@ -40,13 +40,13 @@
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "likes": 7
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 6
     },
     {
       "name": "Spawn",
@@ -80,6 +80,36 @@
       "name": "Spawn",
       "image": "https://1.bp.blogspot.com/-BuDBv9y6osc/UI2rabEgyOI/AAAAAAAAATk/WL3_YZ5jKqo/s1600/Spawn+02.JPG",
       "id": 14
+    },
+    {
+      "name": "Guile",
+      "image": "https://gamesandgears.pk/wp-content/uploads/2016/12/Guile1.jpg",
+      "likes": 6,
+      "id": 15
+    },
+    {
+      "name": "Guile",
+      "image": "https://gamesandgears.pk/wp-content/uploads/2016/12/Guile1.jpg",
+      "likes": 7,
+      "id": 16
+    },
+    {
+      "name": "Guile",
+      "image": "https://gamesandgears.pk/wp-content/uploads/2016/12/Guile1.jpg",
+      "likes": 11,
+      "id": 17
+    },
+    {
+      "name": "Guile",
+      "image": "https://gamesandgears.pk/wp-content/uploads/2016/12/Guile1.jpg",
+      "likes": 7,
+      "id": 18
+    },
+    {
+      "name": "lo-fi hip-hop girl",
+      "image": "https://i.ytimg.com/vi/lBrhKnfPfCg/maxresdefault.jpg",
+      "likes": 9,
+      "id": 19
     }
   ]
 }
